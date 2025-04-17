@@ -1,4 +1,4 @@
-# Medi3d
+# Medical 3D's
 
 This project utilizes a medical CT scan dataset to create 3D models for 3D printing applications. 
 
